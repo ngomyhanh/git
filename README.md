@@ -1,0 +1,2 @@
+# git
+quản lý điểm
