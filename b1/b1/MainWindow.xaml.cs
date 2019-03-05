@@ -24,5 +24,6 @@ namespace b1
         {
             InitializeComponent();
         }
+         private  void btnshow_click 
     }
 }
